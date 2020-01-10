@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">KnowTip</string>
+    <string name="bill">Bill</string>
+    <string name="default_value_zero">0</string>
+    <string name="tip_percent">Tip %</string>
+    <string name="default_tip_percent_15">15</string>
+    <string name="tip_amount">Tip Amount</string>
+    <string name="total_amount">Total Amount</string>
+    <string name="app_instructions">Please enter your Bill and Tip %\nto know your Tip and Total amount</string>
+    <string name="placeholder_text_for_default_image">Just a default image of cutlery</string>
+</resources>
